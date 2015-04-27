@@ -28,7 +28,7 @@ namespace StringSortExample
             }
 
             Console.WriteLine(sb.ToString()); //display output
-			Console.ReadKey(); //pause window 
+	    Console.ReadKey(); //pause window 
         }
     }
 }
