@@ -1,0 +1,5 @@
+C:\TEA\StringSortExample\StringSortExample\bin\Debug\StringSortExample.exe
+C:\TEA\StringSortExample\StringSortExample\bin\Debug\StringSortExample.pdb
+C:\TEA\StringSortExample\StringSortExample\obj\Debug\ResolveAssemblyReference.cache
+C:\TEA\StringSortExample\StringSortExample\obj\Debug\StringSortExample.exe
+C:\TEA\StringSortExample\StringSortExample\obj\Debug\StringSortExample.pdb
